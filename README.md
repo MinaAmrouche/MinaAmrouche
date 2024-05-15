@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Hi, I'm Mina Amrouche, a front-end engineer passionate about building projects from the ground up.
 
-<!--
-**MinaAmrouche/MinaAmrouche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+With over 8 years in web development, I'm a front-end specialist who loves building projects from scratch. Moving from back-end to expert-level JavaScript, I've gained tons of experience with React and Vue.js. I have a keen eye for detail, a knack for fixing bugs, and a passion for creating smooth, innovative UX that meets business goals. Building great partnerships with UI/UX designers & back-end developers, I believe collaboration is key to growing both individually and as a team.
 
-Here are some ideas to get you started:
+## Technical Skills 🛠️
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** React, Next.js, Vue
+- **Tools & Platforms:** GitHub, Docker, Vite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Looking for... 🧐
+an interesting opportunity to work on an innovative project with a fun team!
+
+## Connect with Me 📬
+- 📫 [Email](mailto:mina@iminait.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mina-amrouche-a67b81115/)
