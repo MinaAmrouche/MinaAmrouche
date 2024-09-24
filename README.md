@@ -14,3 +14,4 @@ an interesting opportunity to work on an innovative project with a fun team!
 ## Connect with Me 📬
 - 📫 [Email](mailto:mina@iminait.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mina-amrouche-a67b81115/)
+- 🖥️ [Website](https://iminait.com)
